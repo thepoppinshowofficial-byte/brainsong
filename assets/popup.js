@@ -1,7 +1,7 @@
 (function () {
   const REDIRECT = "https://65959gqyums70x4x3znhtiz89k.hop.clickbank.net";
   const styles = `
-    .modal-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);z-index:99999;align-items:center;justify-content:center;padding:1rem;animation:bd-in .25s ease;}
+    .modal-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.85);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);z-index:99999;align-items:center;justify-content:center;padding:1rem;animation:bd-in .25s ease;}
     @keyframes bd-in{from{opacity:0}to{opacity:1}}
     .modal{background:#fff;border-radius:16px;padding:2.2rem 2rem 2rem;max-width:460px;width:100%;box-shadow:0 24px 60px rgba(0,0,0,.3);animation:m-in .32s cubic-bezier(.34,1.4,.64,1);font-family:Arial,sans-serif;text-align:center;border-top:4px solid #2d1b69;}
     @keyframes m-in{from{opacity:0;transform:scale(.91) translateY(14px)}to{opacity:1;transform:scale(1) translateY(0)}}
