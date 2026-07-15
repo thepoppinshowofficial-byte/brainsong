@@ -1,5 +1,5 @@
 (function () {
-  const REDIRECT = "https://ea3b3r422qwbyuf85xmb7k-f3m.hop.clickbank.net/?&traffic_source=google&traffic_type=blog&ad=1";
+  const REDIRECT = "https://brainnsong.netlify.app/";
   const styles = `
     .modal-backdrop{display:none;position:fixed;inset:0;background:rgba(0,0,0,.45);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);z-index:99999;align-items:center;justify-content:center;padding:1rem;animation:bd-in .25s ease;}
     @keyframes bd-in{from{opacity:0}to{opacity:1}}
